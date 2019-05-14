@@ -8,7 +8,7 @@ var y = 100
 // Declares there is a variable with the identifier z of type int, and declares it without a value.
 var z int
 
-func lkj() {
+func main() {
 	x := 42
 	fmt.Println(x)
 	x = 99 // Updates value

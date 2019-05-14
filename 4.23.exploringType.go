@@ -12,7 +12,7 @@ var s = `
 
 //  Strings can be declared by using double quotes and backticks.
 
-func plj() {
+func main() {
 	fmt.Println(x)
 	fmt.Printf("%T\n", x)
 	// 42
