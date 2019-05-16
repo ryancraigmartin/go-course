@@ -2,8 +2,6 @@ package main
 
 import "fmt"
 
-type ryanInt int
-
 const (
 	a = 42
 	b = 42.78
